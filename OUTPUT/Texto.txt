@@ -1,0 +1,119 @@
+Analyzed sentiment
+Document sentiment
+mixed
+Confidence: 38.00%
+38.00%
+Positive
+13.00%
+Neutral
+49.00%
+Negative
+Sentence 1
+
+Sentence sentiment
+neutral
+Confidence: 1.00%
+1.00%
+Positive
+99.00%
+Neutral
+0.00%
+Negative
+Sentence 2
+
+Sentence sentiment
+neutral
+Confidence: 5.00%
+5.00%
+Positive
+95.00%
+Neutral
+0.00%
+Negative
+Sentence 3
+
+Sentence sentiment
+positive
+Confidence: 85.00%
+85.00%
+Positive
+15.00%
+Neutral
+0.00%
+Negative
+Sentence 4
+
+Sentence sentiment
+positive
+Confidence: 67.00%
+67.00%
+Positive
+33.00%
+Neutral
+0.00%
+Negative
+Sentence 5
+
+Sentence sentiment
+negative
+Confidence: 0.00%
+0.00%
+Positive
+3.00%
+Neutral
+97.00%
+Negative
+Sentence 6
+
+Sentence sentiment
+neutral
+Confidence: 0.00%
+0.00%
+Positive
+99.00%
+Neutral
+1.00%
+Negative
+Sentence 7
+
+Sentence sentiment
+neutral
+Confidence: 12.00%
+12.00%
+Positive
+61.00%
+Neutral
+27.00%
+Negative
+Opinion
+Target: food
+Assessments:
+cold (positive, 52.00%)
+dry (negative, 92.00%)
+Sentence 8
+
+Sentence sentiment
+negative
+Confidence: 0.00%
+0.00%
+Positive
+0.00%
+Neutral
+100.00%
+Negative
+Opinion
+Target: experience
+Assessments:
+awful (negative, 99.00%)
+Sentence 9
+
+Sentence sentiment
+neutral
+Confidence: 2.00%
+2.00%
+Positive
+92.00%
+Neutral
+6.00%
+Negative
+Original text
